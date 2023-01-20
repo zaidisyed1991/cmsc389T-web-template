@@ -17,3 +17,4 @@ jobs:
           script: |
             cd cmsc389T-web-template
             git pull
+            cp -r * /pub/${{ secrets.USERNAME }}
