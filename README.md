@@ -18,6 +18,6 @@ GitHub Profile: Link to my github profile
 Header image: Stock image
 mod style/colors: Changed to gray
 Add another social media link: Added Youtube channel
-Add another section: Added a section describing my desire to do research, as well as what, and possibly where
+Add another section: Added a section describing my desire to do research, as well as what, and possibly where.
 ##### CSS
-Updated CSS page by changing colors to gray as well as changing index html inline CSS youtube button size to be flush with ribbon
+Updated CSS page by changing colors to gray as well as changing index html inline CSS youtube button size to be flush with ribbon.
