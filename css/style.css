@@ -43,10 +43,11 @@ html, body {
 }
 
 .main-header {
-    background-color: red;
-    background-image: url('https://www.databankimx.com/wp-content/uploads/2015/07/Microsoft-Cloud-Offerings.jpg');
+    background-color: gray;
+    background-image: url('https://blog.hubspot.com/hubfs/GettyImages-1177482693.jpg');
     background-blend-mode: multiply;
     background-size: cover;
+    background-position: center;
     padding-bottom: 30px;
 }
 
@@ -113,7 +114,7 @@ html, body {
 }
 
 .main-footer {
-    background-color: red;
+    background-color: gray;
     color: white;
     position: fixed;
     bottom: 0;
