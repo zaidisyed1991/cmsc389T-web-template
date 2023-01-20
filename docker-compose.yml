@@ -3,7 +3,7 @@ version: '3'
 services:
   nodejs:
     #fill out the configuration here
-    image: node-web-app:latest
+    image: zaidisyed1991/node-web-app:latest
     container_name: node
     restart: unless-stopped
     networks:
