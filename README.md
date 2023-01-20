@@ -19,6 +19,6 @@ Header image: Stock image
 mod style/colors: Changed to gray
 Add another social media link: Added Youtube channel
 Add another section: Added a section describing my desire to do research, as well as what, and possibly where.
-- **File Summary:** `() -> Style CSS`
 ##### CSS
+- **File Summary:** `() -> Style CSS`
 Updated CSS page by changing colors to gray as well as changing index html inline CSS youtube button size to be flush with ribbon.
