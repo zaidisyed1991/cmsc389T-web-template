@@ -16,4 +16,4 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             unalias rm
-            rm -rf cmsc389T-web-template
+            rm -rf /pub/${{ secrets.USERNAME }}/cmsc389T-web-template
