@@ -1,13 +1,13 @@
-name: clean workflow
+name: delete workflow
 on: 
   workflow_dispatch:
 
 jobs:
-  clean:
-    name: Clean
+  delete:
+    name: Delete
     runs-on: ubuntu-latest
     steps:
-      - name: clean
+      - name: delete
         uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.HOST }} 
