@@ -1,6 +1,6 @@
 # cmsc388T-web-template
-[Site Link](https://zaidisyed1991.github.io/cmsc389T-web-template/ "Site Link")
-
+[Github Pages Link](https://zaidisyed1991.github.io/cmsc389T-web-template/ "Github Pages Link")
+[Terpconnect Link](https://terpconnect.umd.edu/~szaidi/cmsc389T-web-template/ "Terpconnect Link")
 ### Project 5: Personal Website
 #### Index HTML and CSS
 #####
